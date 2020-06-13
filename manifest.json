@@ -1,0 +1,46 @@
+{
+  "name": "Guide Belitung",
+  "short_name": "GuideBelitung",
+  "display": "standalone",
+  "start_url": "https://www.guidebelitung.com/",
+  "lang": "id-ID",
+  "background_color": "#fff",
+  "theme_color": "#87CEFA",
+  "description": "Tour Guide Belitung melayani paket wisata , one day trip Belitung, rental mobil lepas kunci dan rental motor Belitung",
+     "icons": [{
+    "src": "https://1.bp.blogspot.com/-2GzWbp0CRz0/XuCO-b8o4ZI/AAAAAAAAR_o/t8EFBbb8qtEaKdvB-TIE2m0yX2H_r04AwCK4BGAsYHg/s48/s48/logo%2B48x48.png",
+    "sizes": "48x48",
+    "type": "image/png",
+"purpose": "any maskable"
+  }, {
+    "src": "https://1.bp.blogspot.com/-EZ4Rr8u7BgU/XuCPg2iMdGI/AAAAAAAASAU/OTnAh_KomyQlCueunBBtNX0UKq47JcRbQCK4BGAsYHg/s72/logo%2B72x72.png",
+    "sizes": "72x72",
+    "type": "image/png",
+"purpose": "any maskable"
+  }, {
+    "src": "https://1.bp.blogspot.com/-JS4sDLjmMBs/XuCPtEwchpI/AAAAAAAASAk/fmGty-9fYRg80pgrcpTZzd2MS5qCsY6HACK4BGAsYHg/s96/logo%2B96x96.png",
+    "sizes": "96x96",
+    "type": "image/png",
+"purpose": "any maskable"
+  }, {
+    "src": "https://1.bp.blogspot.com/-837jWq_PSzY/XuCP-1CSU-I/AAAAAAAASA8/WR8vl9g75rk6ZPvz8xwDoExFU3e0BWmUwCK4BGAsYHg/s144/logo%2B144X144.png",
+    "sizes": "144x144",
+    "type": "image/png",
+"purpose": "any maskable"
+  }, {
+    "src": "https://1.bp.blogspot.com/-7xhTcUI1SCI/XuGcdkUMIZI/AAAAAAAASBo/R4GwQqr4z2gUhXUCz9Drls5D2wr8Qtq-QCK4BGAsYHg/s168/logo%2B168x168.png",
+    "sizes": "168x168",
+    "type": "image/png",
+"purpose": "any maskable"
+  }, {
+    "src": "https://1.bp.blogspot.com/-SdNeyeTD83M/XuGc8K9-ziI/AAAAAAAASB8/ytkeFEc_87wqMXpvHSFZCYUptDqEcJ0uwCK4BGAsYHg/s192/FAVICON%2B192X192.png",
+    "sizes": "192x192",
+    "type": "image/png",
+"purpose": "any maskable"
+  }, {
+    "src": "https://1.bp.blogspot.com/-rDqTNu80nG4/XuGddXy68VI/AAAAAAAASCY/qNgF9XED6SQZd8CJ-wC6XEEsAFahSeyGQCK4BGAsYHg/s512/logo%2B512x512.png",
+    "sizes": "512x512",
+    "type": "image/png",
+"purpose": "any maskable"
+  }]
+}
